@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1543427950 source:c:\users\lucas\desktop\projeto def\agenda ed1\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1543427950 c:\users\lucas\desktop\projeto def\agenda ed1\agenda.h
+
+1543426693 source:c:\users\lucas\desktop\projeto def\agenda ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
+1543437638 source:c:\users\lucas\desktop\agenda ed1\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1543436436 c:\users\lucas\desktop\agenda ed1\agenda.h
+
+1543437604 source:c:\users\lucas\desktop\agenda ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
+1543443046 source:f:\faculdade\agenda ed1\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1543442293 f:\faculdade\agenda ed1\agenda.h
+
+1543443378 source:f:\faculdade\agenda ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
+1543449468 source:d:\faculdade\agenda ed1\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1543449289 d:\faculdade\agenda ed1\agenda.h
+
+1543449330 source:d:\faculdade\agenda ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
+1543969653 source:c:\agenda ed1\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
+1543965332 c:\agenda ed1\agenda.h
+
+1543968236 source:c:\agenda ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"agenda.h"
+
